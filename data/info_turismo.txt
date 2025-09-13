@@ -1,0 +1,32 @@
+Cidade: Paris
+Ponto Turístico: Torre Eiffel
+Descrição: Ícone de Paris, oferece vistas panorâmicas da cidade.
+Horário: 9:30 - 22:45
+Localização: Champ de Mars, 5 Avenue Anatole France, 75007 Paris, França.
+Transporte Próximo: Metrô linha 6 (estação Bir-Hakeim), RER C (estação Champ de Mars-Tour Eiffel).
+
+Cidade: Paris
+Ponto Turístico: Museu do Louvre
+Descrição: Um dos maiores e mais famosos museus do mundo. Casa da Mona Lisa e da Vênus de Milo.
+Horário: 9:00 - 18:00 (fechado às terças-feiras).
+Localização: Rue de Rivoli, 75001 Paris, França.
+Dica: Compre ingressos online para evitar longas filas.
+
+Cidade: Rio de Janeiro
+Ponto Turístico: Cristo Redentor
+Descrição: Estátua art déco de Jesus Cristo, localizada no topo do morro do Corcovado. Símbolo do Brasil.
+Horário: 8:00 - 19:00
+Transporte: Acesso via Trem do Corcovado ou vans oficiais.
+Dica de segurança: Evite exibir objetos de valor e esteja atento aos seus pertences.
+
+Cidade: Rio de Janeiro
+Restaurante: Confeitaria Colombo
+Descrição: Cafeteria histórica com decoração luxuosa, famosa por seus doces e salgados.
+Tipo: Gastronomia, Cultural
+Localização: Rua Gonçalves Dias, 32 - Centro, Rio de Janeiro.
+
+Cidade: Rio de Janeiro
+Ponto Turístico: Pão de Açúcar
+Descrição: Complexo de morros que oferece vistas espetaculares da cidade através de um teleférico (bondinho).
+Horário: 8:30 - 20:00
+Dica: O pôr do sol visto do Pão de Açúcar é uma experiência inesquecível.
