@@ -1,3 +1,8 @@
+# Arquivo de chaves secretas
 .env
+
+# Pastas de cache do Python
 __pycache__/
-.venv/
+
+# Pastas de checkpoint do Jupyter
+.ipynb_checkpoints/
